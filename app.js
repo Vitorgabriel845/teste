@@ -1,1 +1,1 @@
-console.log("Teste GitHub OK");
+console.log("Teste GitHub OK")
